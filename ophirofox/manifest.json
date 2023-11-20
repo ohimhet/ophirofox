@@ -419,7 +419,7 @@
         },
         {
           "name": "ESSEC",
-          "AUTH_URL": "https://essec.idm.oclc.org/login?url=http://nouveau.europresse.com/access/ip/default.aspx?un=ESSECT_1"
+          "AUTH_URL": "https://nouveau-europresse-com.essec.idm.oclc.org/Search/Reading"
         },
         {
           "name": "Humathèque Campus Condorcet",
